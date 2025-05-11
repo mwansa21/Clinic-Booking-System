@@ -18,7 +18,9 @@ The database supports relationships between doctors, departments, patients, appo
 How to Run / Setup the Project
 Clone the Repository
 git clone https://github.com/mwansa21/clinic-booking-system.git
+
 cd clinic-booking-system
+
 Open your MySQL client (like MySQL Workbench, phpMyAdmin, or command-line interface).
 
 Import the SQL file:
@@ -28,6 +30,6 @@ Locate the clinic_booking_system.sql file.
 Run the script in your MySQL client to create the database and all required tables.
 
 📊 ERD (Entity Relationship Diagram)
-Click here to view the ERD
+Click here to view the ERD:https://dbdiagram.io/d/Clinic-Booking-System-ERD-6820de1a5b2fc4582f1bf286
 
 
