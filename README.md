@@ -15,7 +15,7 @@ Medical record keeping
 
 The database supports relationships between doctors, departments, patients, appointments, and medical records, ensuring data consistency and integrity using primary and foreign key constraints.
 
-How to Run / Setup the Project
+### How to Run / Setup the Project
 Clone the Repository
 git clone https://github.com/mwansa21/clinic-booking-system.git
 
