@@ -1,10 +1,8 @@
 # Clinic Booking System
 
-Project Title
+## Project Title: Clinic Booking System - MySQL Database
 
-Clinic Booking System - MySQL Database
-
-Description
+### Description
 This project is a complete relational database system designed for managing a clinic's day-to-day operations. It handles:
 
 Doctor and department assignments
@@ -31,7 +29,7 @@ Locate the clinic_booking_system.sql file.
 
 Run the script in your MySQL client to create the database and all required tables.
 
-ERD (Entity Relationship Diagram)
+### ERD (Entity Relationship Diagram)
 
 Click here to view the ERD:https://dbdiagram.io/d/Clinic-Booking-System-ERD-6820de1a5b2fc4582f1bf286
 
